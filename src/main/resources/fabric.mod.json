@@ -3,12 +3,12 @@
 	"id": "movement-expansion-testament",
 	"version": "${version}",
 	"name": "Movement Expansion Testament",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Expands movement with My own will, blood tears and sweat. Check the config file & controls tab for info!",
 	"authors": [
-		"Me!"
+		"Masoki"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
